@@ -1,5 +1,5 @@
 {
-  "name": "cart",
+  "name": "car",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -23,7 +23,8 @@
     "load": "^1.0.1",
     "mongodb": "^2.0.47",
     "mongoose": "^4.2.3",
-    "express-load": "*"
+    "express-load": "*",
+    "mongo-sanitize": "*"
 
   }
 }
